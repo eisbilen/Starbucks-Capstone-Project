@@ -4,20 +4,20 @@ Starbucks capstone project belongs to [Udacity Data Science Nanodegree program](
 
 ## Motivation
 
-The main motivation for the development of this project is to provide a consistent and valid model that allows the creation of interest offers for the clients of any company, in this case starbucks.
+The primary objective of this project is to establish a robust and reliable model that enables the generation of engaging promotional offers tailored to the customers of any organization, such as Starbucks.
 
 ## Resources
 
 
-The project has the following different resources in file form:
+The project comprises various resources in file format, including the followings:
 
-The analysis, cleaning, data exploration and construction of models based on the dataset created as a result of the previous steps is divided into two files that should be executed in the following order:
+The analysis, cleaning, data exploration, and model construction based on the dataset generated from the preceding steps are organized into two files that need to be executed in the specified sequence:
 
 #### Jupyter Notebooks
 
-`Starbucks_Capstone_notebook1.ipynb`
+`Starbucks_Capstone_Project_PreProsessing.ipynb`
 
-`Starbucks_Capstone_Challenge_Building models.ipynb`
+`Starbucks_Capstone_Project_Models.ipynb`
 
 #### Datasets
 Datasets (provided by Udacity) used for this project are the following:
@@ -29,7 +29,7 @@ data/`transcript.json`: records for transactions, offers received, offers viewed
 data/`profile.json`: demographic data for each customer
 
 
-As a result of the data wranglig and feature engineering operations, two new datasets are created:
+Through the process of data wrangling and feature engineering, two distinct datasets are generated as a result:
 
 data/`portfolio_cleaned.csv`: processed information related to initial portfolio dataset
 
@@ -51,7 +51,7 @@ data/`combined_data.json`: dataset prepared and built in the first notebook with
 
 ## Summary analysis
 
-To find the best possible model, three different supervised classification algorithms have been used:
+In order to identify the optimal model, three distinct supervised classification algorithms have been employed:
 
 * Logistic Regression
 * Gradient Boosting
@@ -68,4 +68,4 @@ Metrics outcome:
 
 ## 
 
-You can find more information by reading [my technical article](https://jordiluc16.medium.com/starbucks-capstone-challenge-offer-analysis-and-success-prediction-78574e915dbf) on The Startup at Medium.
+For further information, please refer to[my technical article](https://jordiluc16.medium.com/starbucks-capstone-challenge-offer-analysis-and-success-prediction-78574e915dbf)  published on Medium.
