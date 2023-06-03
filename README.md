@@ -4,10 +4,16 @@ The Starbucks Capstone Project, which is part of the Udacity Data Science Nanode
 
 ![alt text](https://github.com/eisbilen/Starbucks-Capstone-Project/blob/main/hans-vivek-gfLlvYFD7NE-unsplash.jpg)
 Photo by <a href="https://unsplash.com/@oneshotespresso?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hans Vivek</a> on <a href="https://unsplash.com/photos/gfLlvYFD7NE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
-  
+
+## Project Overview
+
+## Problem Statement
+
 ## Motivation
 
 The primary objective of this project is to establish a robust and reliable model that enables the generation of engaging promotional offers tailored to the customers of any organization, such as Starbucks.
+
+
 
 ## Resources
 
