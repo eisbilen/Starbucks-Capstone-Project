@@ -1,5 +1,5 @@
 # Starbucks Capstone Project
-The Starbucks Capstone Project, which is part of the Udacity Data Science Nanodegree program, can be accessed through this [link](https://www.udacity.com/school-of-data-science)
+The Starbucks Capstone Project, which is part of the Udacity Data Science Nanodegree program, can be accessed through this [link](https://www.udacity.com/school-of-data-science).
 
 ## Motivation
 
@@ -67,4 +67,4 @@ Metrics outcome:
 
 ## 
 
-For further information, please refer to[my technical article](https://jordiluc16.medium.com/starbucks-capstone-challenge-offer-analysis-and-success-prediction-78574e915dbf)  published on Medium.
+For further information, please refer to [my technical article](https://jordiluc16.medium.com/starbucks-capstone-challenge-offer-analysis-and-success-prediction-78574e915dbf)  published on Medium.
