@@ -1,6 +1,5 @@
 # Starbucks Capstone Project
-Starbucks capstone project belongs to [Udacity Data Science Nanodegree program](https://www.udacity.com/school-of-data-science).
-
+The Starbucks Capstone Project, which is part of the Udacity Data Science Nanodegree program, can be accessed at this [link](https://www.udacity.com/school-of-data-science)..
 
 ## Motivation
 
