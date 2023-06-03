@@ -49,10 +49,6 @@ data/`combined_data.json`: dataset prepared and built in the first notebook with
 
 * [scikit-learn: Machine Learning in Python](https://scikit-learn.org/stable/)
 
-* [scipy: Python-based ecosystem of open-source software for mathematics, science, and engineering](https://www.scipy.org/)
-
-* [Joblib: running Python functions as pipeline jobs](https://joblib.readthedocs.io/en/latest/)
-
 ## Summary analysis
 
 To find the best possible model, three different supervised classification algorithms have been used:
