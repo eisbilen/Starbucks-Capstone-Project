@@ -77,4 +77,4 @@ Metrics outcome:
 
 ## 
 
-For further information, please refer to [my technical article](https://jordiluc16.medium.com/starbucks-capstone-challenge-offer-analysis-and-success-prediction-78574e915dbf)  published on Medium.
+For further information, please refer to [my technical article](https://towardsdatascience.com/predicting-success-of-a-reward-program-at-starbucks-b32b77dcf9b8)  published on Medium.
