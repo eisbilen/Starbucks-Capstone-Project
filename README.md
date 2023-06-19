@@ -77,4 +77,4 @@ Metrics outcome:
 
 ## 
 
-For further information, please refer to [my technical article](https://towardsdatascience.com/predicting-success-of-a-reward-program-at-starbucks-b32b77dcf9b8)  published on Medium.
+For further information, please refer to [my technical article](https://erdemisbilen.medium.com/b32b77dcf9b8?sk=3c56192b9942f3e642aae70dddcc86f5)  published on Medium.
