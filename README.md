@@ -20,13 +20,12 @@ The primary objective of this project is to establish a robust and reliable mode
 
 The project comprises various resources in file format, including the followings:
 
-The analysis, cleaning, data exploration, and model construction based on the dataset generated from the preceding steps are organized into two files that need to be executed in the specified sequence:
+The analysis, cleaning, data exploration, and model construction based on the dataset generated from the preceding steps are organized into one jupytre noteboo:
 
 #### Jupyter Notebooks
 
-`Starbucks_Capstone_Project_PreProsessing.ipynb`
+`Starbucks_Capstone_Project_notebook.ipynb`
 
-`Starbucks_Capstone_Project_Models.ipynb`
 
 #### Datasets
 Datasets (provided by Udacity) used for this project are the following:
@@ -38,11 +37,9 @@ data/`transcript.json`: records for transactions, offers received, offers viewed
 data/`profile.json`: demographic data for each customer
 
 
-Through the process of data wrangling and feature engineering, two distinct datasets are generated as a result:
+Through the process of data wrangling and feature engineering, a combined dataset is generated as a result:
 
-data/`portfolio_cleaned.csv`: processed information related to initial portfolio dataset
-
-data/`combined_data.json`: dataset prepared and built in the first notebook with the objective of building the classification models
+data/`combined_data.json`: dataset prepared and built in the notebook with the objective of building the classification models
 
 ## Libraries
 
@@ -70,10 +67,10 @@ Metrics outcome:
 
 |                 | Log. Regression | Gradient Boosting | Random Forest  |
 | -------------   |:---------------:| -----------------:| --------------:|
-| accuracy        |    0.698        |     0.726         |     0.734      |
-| f1score         |    0.694        |     0.725         |     0.729      |
-| precission      | 0.667           | 0.691             |    0.707       |
-| recall          | 0.725           | 0.763             |    0.749       |
+| accuracy        |    0.693        |     0.703         |     0.704      |
+| f1score         |    0.694        |     0.710         |     0.707      |
+| precission      | 0.657           | 0.659             |    0.665       |
+| recall          | 0.735           | 0.771             |    0.755       |
 
 ## 
 
