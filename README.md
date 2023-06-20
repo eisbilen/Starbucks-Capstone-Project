@@ -55,6 +55,17 @@ data/`combined_data.json`: dataset prepared and built in the notebook with the o
 
 * [scikit-learn: Machine Learning in Python](https://scikit-learn.org/stable/)
 
+## Acknowledgements
+See below the resources, including websites, books or papers that have helped me to find solutions and develop this project.
+
+* [scikit-learn: User Manual](https://scikit-learn.org/stable/user_guide.html)
+  
+* [Google: AUC-ROC curve](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)
+  
+* [Hands-on ML with Scikit-Learn, Keras and Tensorflow by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+  
+https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc
+
 ## Summary analysis
 
 In order to identify the optimal model, three distinct supervised classification algorithms have been employed:
