@@ -58,6 +58,8 @@ data/`combined_data.json`: dataset prepared and built in the notebook with the o
 ## Acknowledgements
 See below the resources, including websites, books or papers that have helped me to find solutions and develop this project.
 
+* [datasets provided by Udacity/Starbucks](https://www.udacity.com/school-of-data-science)
+  
 * [scikit-learn: User Manual](https://scikit-learn.org/stable/user_guide.html)
   
 * [Google: AUC-ROC curve](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)
