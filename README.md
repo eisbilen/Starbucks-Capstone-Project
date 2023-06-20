@@ -63,8 +63,6 @@ See below the resources, including websites, books or papers that have helped me
 * [Google: AUC-ROC curve](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)
   
 * [Hands-on ML with Scikit-Learn, Keras and Tensorflow by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-  
-https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc
 
 ## Summary analysis
 
