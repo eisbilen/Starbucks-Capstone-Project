@@ -6,8 +6,22 @@ The Starbucks Capstone Project, which is part of the Udacity Data Science Nanode
 Photo by <a href="https://unsplash.com/@oneshotespresso?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hans Vivek</a> on <a href="https://unsplash.com/photos/gfLlvYFD7NE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
 
 ## Project Overview
+This project focuses on identifying reward program offers that effectively engage Starbucks’ current customers and attract new ones.
+
+Starbucks is a data-driven company that invests in obtaining a complete understanding of its customers by utilizing datasets containing customer information, special offers, and transaction data.
+
+To develop a model capable of determining the success of a reward program, I divided the project into three phases:
+
+Inspecting and cleaning the data provided by the Udacity.
+Creating a dataset that combines all relevant information.
+Building and evaluating the performance of three classification models to predict the success or failure of a reward program for a specific person.
 
 ## Problem Statement
+Making a significant investment in a marketing campaign is a complex decision that requires approval from various stakeholders, financial resources, and time. Therefore, having a predictive model that can classify whether it is worthwhile to launch a particular offer for a specific target group becomes a strategic asset for any company.
+
+In order to create this model, we will employ supervised learning techniques for binary classification.
+
+The outcome of the model will indicate whether the offer is expected to be effective or not.
 
 ## Motivation
 
