@@ -74,7 +74,14 @@ In order to identify the optimal model, three distinct supervised classification
 * Gradient Boosting
 * Random Forest
 
-Metrics outcome:
+Accuracy outcome of the inital models before fien tuning the hyper parameters:
+
+|                 | Log. Regression | Gradient Boosting | Random Forest  |
+| -------------   |:---------------:| -----------------:| --------------:|
+| accuracy        |    0.692        |     0.703         |     0.702      |
+
+
+Metrics outcome after fine tuning the hyperparameters:
 
 |                 | Log. Regression | Gradient Boosting | Random Forest  |
 | -------------   |:---------------:| -----------------:| --------------:|
